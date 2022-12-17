@@ -13,7 +13,7 @@ GTAV/ALTV/RAGE:MP EXTERNAL 🌌
 <p align="center">
 <b>This project was made for educational purposes!</b>
 <br>
-VALORANT-EXTERNAL was made for educational purposes and personal use. By using our services you agree that you hold responsibility, liability and accountability of any consequences caused by your actions.
+GTAV EXTERNAL was made for educational purposes and personal use. By using our services you agree that you hold responsibility, liability and accountability of any consequences caused by your actions.
 </p>
 
 
