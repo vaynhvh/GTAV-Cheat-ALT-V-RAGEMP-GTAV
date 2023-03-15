@@ -20,7 +20,7 @@ GTAV EXTERNAL was made for educational purposes and personal use. By using our s
 ---
 
 
-<img src="https://i.imgur.com/iAQP28A.png" />
+<img src="https://i.ibb.co/sV177gT/image.png" />
 
 ---
 
@@ -29,20 +29,3 @@ GTAV EXTERNAL was made for educational purposes and personal use. By using our s
 
 ---
 
-## <a id="features"></a>🌌 〢 Features
-
-**Aimbot**
-```sh-session
-- Trigger BOt
-- No Recoil
-- One Shoot Kill
-- No Spread
-```
-
-**ESP**
-```sh-session
-- Boxes
-- Skeletons
-- Health
-- Vehicle ESP
-```
